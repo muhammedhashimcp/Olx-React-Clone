@@ -29,8 +29,10 @@ This application is a for booking a slot.
 Users can do the following:
 - View product
 - Serch Product 
-- Edit notes.
-- Delete notes.
+
+
+## Live Link:-  [** app**](https://procoderblogapp.netlify.app/)
+
 
 ## License
 
