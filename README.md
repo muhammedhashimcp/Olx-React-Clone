@@ -31,7 +31,7 @@ Users can do the following:
 - Serch Product 
 
 
-## Live Link:-  [** Olx react Clone**](https://olx-react-clone.netlify.app/)
+## Live Link:-  [**Olx react Clone**](https://olx-react-clone.netlify.app/)
 <img src="https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/projects%2FOlx-xl.png?alt=media&token=2600760e-5a3b-4aee-a5e6-5f5d02587ce5" alt=""  />
 
 ## License
