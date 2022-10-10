@@ -9,7 +9,7 @@
 - [License](#license)
 
 ## Introduction
-  Olx clone using reacthis application users can add and, edit and delete their notes.
+  Olx clone using react this application users can add and, edit and delete their notes.
 
 ## Run
 
